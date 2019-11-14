@@ -23,6 +23,5 @@ class Solution:
             else:
                 result.append(str(i))   #" note: str()"
 
-        #test 2019/11/13
-
+        
         return result
